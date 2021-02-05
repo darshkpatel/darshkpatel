@@ -6,4 +6,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ef233c?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:darshkpatel@gmail.com)](mailto:darshkpatel@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-F38020?style=for-the-badge&logo=icloud&logoColor=white)](https://darshkpatel.com)
 
-![Darsh GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshkpatel&count_private=true&show_icons=true)
+![Darsh GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshkpatel&count_private=true&show_icons=true&include_all_commits=true)
